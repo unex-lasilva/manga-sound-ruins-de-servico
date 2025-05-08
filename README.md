@@ -8,5 +8,7 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 
 
 # Equipe: <nome-da-equipe>
-1. <Nome de fulano>
-2. <Nome de fulana>
+1. Andrei Luiz
+2. David Cairo
+3. Mateus Oliveira
+4. Victor Ferreira
